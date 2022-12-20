@@ -30,7 +30,7 @@
 
 <div>
   <h3> My GitHub Stats :fire: </h3>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuiMazzolini&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuiMazzolini&theme=dark&border_radius=4)](https://git.io/streak-stats)
   
 </div>
 
