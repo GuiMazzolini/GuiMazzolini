@@ -24,7 +24,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" **alt="Mongo" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.s60" title="Bootstrap" **alt="Bootstrap" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="60" height="60"/>
+</div>
+<hr />
+
+<div>
+  <h3> My GitHub Stats :fire: </h3>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuiMazzolini&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 </div>
 
-https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg
