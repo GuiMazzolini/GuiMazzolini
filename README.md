@@ -33,5 +33,5 @@
   
 </div>
 
-[![GitHub Streak align="center"](http://github-readme-streak-stats.herokuapp.com?user=GuiMazzolini&theme=dark&border_radius=4)](https://git.io/streak-stats) <br>
-[![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMazzolini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuiMazzolini&theme=dark&border_radius=4)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMazzolini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
