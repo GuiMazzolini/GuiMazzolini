@@ -11,18 +11,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
-  
-  <h2> Hi there 👋 </h2>
 </div>
 <hr />
-
 <div>
   <h4> About me </h4>
   
+  <p>Hi there! My name is Guilherme and I am from Brazil and currently living in Berlin. </p>
   <p>I recently graduated from the Full Stack Web Development Bootcamp at Ironhack Germany and now I'm studying at Scrimba to enhance my skills! :weight_lifting:</p>
-  
+  <p> To know more about me check my repositories or find me here ->   <a href="[your-linkedin-URL](https://www.linkedin.com/in/guilherme-mazzolini-muniz-739852147/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> </p>
 
 </div>
-
+<hr />
